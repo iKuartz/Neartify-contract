@@ -1,0 +1,13 @@
+{
+  "name": "near-vaccine-contract",
+  "version": "1.0.0",
+  "description": "Contract that tracks vaccines in the blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/iKuartz/near-vaccine-contract.git",
+  "author": "Ivan <ivankuartz@hotmail.com>",
+  "license": "MIT",
+  "private": null,
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
